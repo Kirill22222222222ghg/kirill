@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv)
 {
-    char first[255], last[255];
+    char first[250], last[250];
 
     printf("Enter your first name: ");
 
